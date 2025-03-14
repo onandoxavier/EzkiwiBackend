@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35201.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualQueueApi", "VirtualQueueApi.csproj", "{B8AFDAB6-9AC4-4E3B-A6A1-AFB5407912DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8AFDAB6-9AC4-4E3B-A6A1-AFB5407912DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8AFDAB6-9AC4-4E3B-A6A1-AFB5407912DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8AFDAB6-9AC4-4E3B-A6A1-AFB5407912DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8AFDAB6-9AC4-4E3B-A6A1-AFB5407912DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D690C0B-9C15-47DD-8946-77942B7474D1}
+	EndGlobalSection
+EndGlobal
